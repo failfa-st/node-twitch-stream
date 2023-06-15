@@ -59,7 +59,7 @@ retrieve an access token, and initiate the streaming of the video file `demo.mp4
 
 ## Customization
 
-You can customize the video file to be streamed by replacing demo2.mp4 in the startStreaming
+You can customize the video file to be streamed by replacing `demo.mp4` in the startStreaming
 function of index.js with the path to your desired video file.
 
 ## Contributing
