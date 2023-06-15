@@ -55,7 +55,7 @@ npm start
 ```
 
 The application will authenticate with the Twitch API using the provided client credentials,
-retrieve an access token, and initiate the streaming of the video file demo2.mp4 to Twitch.
+retrieve an access token, and initiate the streaming of the video file `demo.mp4` to Twitch.
 
 ## Customization
 
