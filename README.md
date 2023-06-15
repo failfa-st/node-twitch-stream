@@ -7,8 +7,8 @@ the Twitch API and FFmpeg.
 
 Before running the application, make sure you have the following prerequisites installed:
 
--   Node.js (version 18 or higher) (run `nvm use` if you use [NVM](https://github.com/nvm-sh/nvm) or similar tools)
--   [FFmpeg](https://ffmpeg.org/) (installed and accessible via the command line)
+-   [Node.js](https://nodejs.org) (version 18.16 or higher) (run `nvm use` if you use [NVM](https://github.com/nvm-sh/nvm) or similar tools)
+-   [FFmpeg](https://ffmpeg.org) (installed and accessible via the command line)
 -   [Twitch](https://www.twitch.tv) account with [stream key](https://help.twitch.tv/s/article/twitch-stream-key-faq?language=en_US)
 
 ## Installation
