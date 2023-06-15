@@ -41,7 +41,7 @@ TWITCH_STREAM_KEY=your-twitch-stream-key
 
 > 💡 You can copy the `.env.example` to `.env`
 
-Replace your-twitch-client-id, your-twitch-client-secret, and your-twitch-stream-key with your
+Replace `your-twitch-client-id`, `your-twitch-client-secret`, and `your-twitch-stream-key` with your
 actual Twitch credentials.
 
 5. Add a file `demo.mp4` to the project: `path/to/node-twitch-stream/demo.mp4`
